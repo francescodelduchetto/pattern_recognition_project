@@ -49,3 +49,5 @@ conditional=True,              # If False, use decoder-only model.
 and have to be specified in the `hparams` list of parameters.
 
 To see the results of the training you can run the sketchDraw.py script which uses the trained model in order to generate the sketches.
+
+The script has to be run by `python sketchDraw.py path_to_pretrained_model`.
